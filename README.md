@@ -1,7 +1,7 @@
 
 
 ## NFT_MarketPlace
-Logbook is a Web-Application where Digital Currencies are in One Place
+NFT_MarketPlace is a Web-Application where Digital Currencies are in One Place
 All NFTs You need in One Marketplace The Best Place to Collect, Buy and Sell Awesome NFTs.
 
 ![App Screenshot](https://github.com/Shreyan101/NFT_MarketPlace/blob/master/images/React%20App%20-%20Google%20Chrome%2008-01-2022%2021_10_18.png?raw=true)
